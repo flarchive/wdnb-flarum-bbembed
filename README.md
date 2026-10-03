@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of wdnb/flarum-bbembed.** Not for installation: use [Packagist](https://packagist.org/packages/wdnb/flarum-bbembed) or the [upstream repository](https://github.com/wdnb/flarum-bbembed).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/wdnb-flarum-bbembed/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/wdnb-flarum-bbembed/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-12-19 | `^1.0` | [Browse](https://github.com/flarchive/wdnb-flarum-bbembed/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/wdnb-flarum-bbembed.json](https://github.com/flarchive/archive-index/blob/main/packages/wdnb-flarum-bbembed.json)
 
